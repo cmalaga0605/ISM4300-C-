@@ -1,0 +1,11 @@
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.deps.json
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.runtimeconfig.json
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.runtimeconfig.dev.json
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.dll
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.pdb
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.csprojAssemblyReference.cache
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.csproj.CoreCompileInputs.cache
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.AssemblyInfoInputs.cache
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.AssemblyInfo.cs
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.dll
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Arrays\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Arrays.pdb
