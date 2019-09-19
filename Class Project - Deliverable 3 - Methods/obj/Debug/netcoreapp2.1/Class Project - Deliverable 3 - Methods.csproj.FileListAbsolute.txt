@@ -1,0 +1,11 @@
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.deps.json
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.runtimeconfig.json
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.runtimeconfig.dev.json
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.dll
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\bin\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.pdb
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.csprojAssemblyReference.cache
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.csproj.CoreCompileInputs.cache
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.AssemblyInfoInputs.cache
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.AssemblyInfo.cs
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.dll
+C:\Users\cmalaga\Desktop\C#\Class Project - Deliverable 3 - Methods\obj\Debug\netcoreapp2.1\Class Project - Deliverable 3 - Methods.pdb
